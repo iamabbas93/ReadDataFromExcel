@@ -1,0 +1,11 @@
+C:\Users\m.abbas\source\repos\Aloo\Aloo\bin\Release\Aloo.exe.config
+C:\Users\m.abbas\source\repos\Aloo\Aloo\bin\Release\Aloo.exe
+C:\Users\m.abbas\source\repos\Aloo\Aloo\bin\Release\Aloo.pdb
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.csproj.AssemblyReference.cache
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.csproj.ResolveComReference.cache
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.Form1.resources
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.Properties.Resources.resources
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.csproj.GenerateResource.cache
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.csproj.CoreCompileInputs.cache
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.exe
+C:\Users\m.abbas\source\repos\Aloo\Aloo\obj\Release\Aloo.pdb
